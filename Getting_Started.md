@@ -1,4 +1,4 @@
-"""# 🚀 Getting Started with Git & GitHub: A Comprehensive Guide
+# 🚀 Getting Started with Git & GitHub: A Comprehensive Guide
 
 Welcome to the definitive guide for mastering Git and GitHub. This comprehensive handbook covers everything from initial installation to advanced branching, merging strategies, and resolving conflicts.
 
