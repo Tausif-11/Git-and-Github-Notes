@@ -1,4 +1,4 @@
-"""# 📚 Git & GitHub Reference Notes for Learners
+# 📚 Git & GitHub Reference Notes for Learners
 
 Welcome to the ultimate repository of comprehensive study guides and cheat sheets for mastering **Git** and **GitHub**. This space is carefully designed as an open educational resource for students, beginners, and developers looking to reinforce their version control workflows.
 
@@ -49,4 +49,3 @@ Your quick-reference cheat sheet. Keep this open in a side window during develop
 ---
 
 ⭐ *If these study guides helped you understand Git and GitHub better, feel free to **Fork** this repository to your own account, share it with your classmates, or give it a **Star**! Happy Coding!*
-"""
